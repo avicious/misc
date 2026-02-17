@@ -2,6 +2,7 @@
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
+| **CSV To JSON** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/csv-to-json/) \| [Code](https://github.com/avicious/csv-to-json) |
 | **Image Zoom** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/image-zoom/) \| [Code](https://github.com/avicious/image-zoom) |
 | **Password Validation** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/password-validation/) \| [Code](https://github.com/avicious/password-validation) |
 | **Image Cropper** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/image-cropper/) \| [Code](https://github.com/avicious/image-cropper) |

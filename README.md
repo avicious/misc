@@ -2,6 +2,7 @@
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
+| **Checkbox List** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/checkbox-list/) \| [Code](https://github.com/avicious/checkbox-list) |
 | **Drag & Drop List** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/drag-drop-list/) \| [Code](https://github.com/avicious/drag-drop-list) |
 | **Reaction Buttons** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/reaction-buttons/) \| [Code](https://github.com/avicious/reaction-buttons) |
 | **CSV To JSON** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/csv-to-json/) \| [Code](https://github.com/avicious/csv-to-json) |

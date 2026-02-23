@@ -2,6 +2,7 @@
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
+| **Search & Filter** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/search-filter/) \| [Code](https://github.com/avicious/search-filter) |
 | **File Type Validation** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/file-type-validation/) \| [Code](https://github.com/avicious/file-type-validation) |
 | **Password Strength Checker** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/password-strength-checker/) \| [Code](https://github.com/avicious/password-strength-checker) |
 | **Checkbox List** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/checkbox-list/) \| [Code](https://github.com/avicious/checkbox-list) |

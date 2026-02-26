@@ -2,6 +2,7 @@
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
+| **Password Generator** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/password-generator/) \| [Code](https://github.com/avicious/password-generator) |
 | **Audio Player** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/audio-player/) \| [Code](https://github.com/avicious/audio-player) |
 | **Image Magnifier** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/image-magnifier/) \| [Code](https://github.com/avicious/image-magnifier) |
 | **Search & Filter** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/search-filter/) \| [Code](https://github.com/avicious/search-filter) |

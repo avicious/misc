@@ -2,6 +2,7 @@
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
+| **Image Carousel** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/image-carousel/) \| [Code](https://github.com/avicious/image-carousel) |
 | **Dynamic Input Fields** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/dynamic-input-fields/) \| [Code](https://github.com/avicious/dynamic-input-fields) |
 | **Horizontal Slider** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/horizontal-scroll/) \| [Code](https://github.com/avicious/horizontal-scroll) |
 | **Password Generator** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/password-generator/) \| [Code](https://github.com/avicious/password-generator) |

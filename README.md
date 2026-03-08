@@ -1,4 +1,4 @@
-## 📂 Project Directory
+## Project Directory
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |

@@ -27,3 +27,4 @@
 | **Increment Decrement** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/increment-decrement/) \| [Code](https://github.com/avicious/increment-decrement) |
 | **File Upload** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/file-upload/) \| [Code](https://github.com/avicious/file-upload) |
 | **Custom Modal** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/custom-modal/) \| [Code](https://github.com/avicious/custom-modal) |
+| **Custom Tooltip** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/custom-tooltip/) \| [Code](https://github.com/avicious/custom-tooltip) |

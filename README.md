@@ -29,3 +29,4 @@
 | **Custom Modal** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/custom-modal/) \| [Code](https://github.com/avicious/custom-modal) |
 | **Custom Tooltip** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/custom-tooltip/) \| [Code](https://github.com/avicious/custom-tooltip) |
 | **File Upload Progress** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/file-upload-progress/) \| [Code](https://github.com/avicious/file-upload-progress) |
+| **Expandable Animated Card** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/expandable-card/) \| [Code](https://github.com/avicious/expandable-card) |

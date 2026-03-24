@@ -1,4 +1,4 @@
-## Project Directory
+## Custom Components
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
